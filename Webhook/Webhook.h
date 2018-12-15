@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include <stdio.h>
+#include <cstdio>
 #include <curl/curl.h>
 
 class Webhook
